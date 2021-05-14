@@ -1,2 +1,2 @@
-# Idioms-
+# Idioms
 Idioms
