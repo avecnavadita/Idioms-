@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai:400');
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background: white;
+  font-family: 'Arima Madurai', sans-serif;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #000000;
+}
+
+p.quote {
+    margin: 0px;
+    color: gray;
+}
+
+img {
+    height: 112px;
+    width: 155px;
+}
+
+.header-first {
+    display: flex;
+    font-family: 'KoHo', sans-serif;
+    background-color: aliceblue;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    color: cornflowerblue;
+}
+
+h3.highlight {
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+h3.highlight2 {
+    font-size: 22px;
+    margin-top: 40px;
+}
+
+main {
+    margin-left: 20px;
+}
+
+aside p {
+    margin-left: 20px;
+}
+
+p {
+    margin-left: 20px;
+}
